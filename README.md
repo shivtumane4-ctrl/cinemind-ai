@@ -6,7 +6,7 @@ AI-powered film production intelligence platform driven by Gemini 3.6 Flash. Fea
 
 ## Key Features
 Multi-Agent Script Parsing: Uses `gemini-3.6-flash` to extract structured JSON data including scenes, characters, lighting cues, and prop budgets.
-Dynamic Budget Tier Scaling: Recalculates visual effects scope, practical locations, and casting archetypes relative to selected budget tiers ($100K Indie, $10M Mid-Budget, $100M Blockbuster).
+Dynamic Budget Tier Scaling: Recalculates visual effects scope, practical locations, and casting archetypes relative to selected budget tiers.
 3D WebGL Film Strip Interface: Renders real-time dynamic output cards onto an interactive 3D rotating film strip.
 PDF Production Binder Export: Exports a single-click official production call sheet PDF for line producers and filmmakers.
 
