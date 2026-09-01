@@ -12,6 +12,6 @@ PDF Production Binder Export: Exports a single-click official production call sh
 
 ## Tech Stack
 AI Model: Google Gemini API (`gemini-3.6-flash`)
-Frontend:** React, Tailwind CSS, Three.js / WebGL
+Frontend: React, Tailwind CSS, Three.js / WebGL
 Export Utilities: jsPDF / html2pdf.js
 Platform: Base44 Platform Engine
